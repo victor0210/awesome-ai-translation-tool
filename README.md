@@ -33,3 +33,5 @@ Kapwing is another lightweight online editor that supports subtitle translation 
 ### Maestra
 
 Maestra is an AI-powered dubbing and subtitle generation platform designed for educators, content creators, and global marketing teams. It offers fast and accurate auto-subtitling, voiceover translation in 60+ languages, and easy team collaboration tools.
+
+![AI Video Translators Illustration](pic.jpg)
