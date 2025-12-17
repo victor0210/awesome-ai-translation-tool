@@ -1,5 +1,7 @@
 # What AI Video Translators Are
 
+![AI Video Translators Illustration](pic.jpg)
+
 AI video translators use artificial intelligence to translate video content, including audio and subtitles, into other languages automatically.  
 Modern tools not only translate text but can also dub audio, generate subtitles, perform voice cloning, and even sync mouth movements in the video to the translated speech (lip-sync).
 
@@ -33,5 +35,3 @@ Kapwing is another lightweight online editor that supports subtitle translation 
 ### Maestra
 
 Maestra is an AI-powered dubbing and subtitle generation platform designed for educators, content creators, and global marketing teams. It offers fast and accurate auto-subtitling, voiceover translation in 60+ languages, and easy team collaboration tools.
-
-![AI Video Translators Illustration](pic.jpg)
